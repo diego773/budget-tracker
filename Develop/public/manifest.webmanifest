@@ -1,9 +1,0 @@
-{
-    "name": "Budget tracker",
-    "short_name": "Budget",
-    "display": "standalone",
-    "start_url": "/",
-    "description": "An application that allows you track your expenses",
-    "background_color": "#01579b",
-    "theme-color": "#ffffff"
-    }
