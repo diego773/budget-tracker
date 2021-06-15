@@ -59,7 +59,7 @@ function checkDatabase() {
 
             // Clear existing entries because our bulk add was successful
             currentStore.clear();
-            console.log('Clearing store 🧹');
+            console.log('Clearing store');
           }
         });
     }
@@ -72,7 +72,7 @@ request.onsuccess = function (e) {
 
   // Check if app is online before reading from db
   if (navigator.onLine) {
-    console.log('Backend online! 🗄️');
+    console.log('Backend online!');
     checkDatabase();
   }
 };
