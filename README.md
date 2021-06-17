@@ -25,3 +25,7 @@ Offline Functionality:
 When brought back online:
 
   * Offline entries should be added to tracker.
+
+  ## Budget Tracker Demo
+
+<img src="./public/assets/budgettracker.gif">
